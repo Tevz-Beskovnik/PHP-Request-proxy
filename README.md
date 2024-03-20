@@ -1,10 +1,10 @@
 # Proxy for PHP
 
-## Why the fuck does this exist?
+## Why does this exist?
 
 I needed to quickly hack together a proxy to rewrite routes for php MVC task i had to do for my UNI course.
 
-Fuck configuring XAMPP on MacOS lord know why all those access errors are happening anyways
+No one wants to configure XAMPP on MacOS lord know why all those access errors are happening anyways
 
 ## How to use this
 
@@ -35,10 +35,10 @@ To start in the proxy simply run:
 
 ## Having issues while using?
 
-Fuck you open a PR and fix it yourself
+Open a PR and fix it yourself
 
 ## Worried about security?
 
-Read the code it's 30 damn lines.
+Read the code it's 30 lines :).
 
-##### Feel free to use where ever idgf
+##### Feel free to use where ever idc
